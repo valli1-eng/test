@@ -1,3 +1,5 @@
 alpha
 beta
-gama
+valli
+square
+sum
